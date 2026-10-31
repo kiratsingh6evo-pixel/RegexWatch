@@ -1,0 +1,1 @@
+RegexWatch isolated workspace tar -czf backup/project-backup.tar.gz app scanner assets SAFE_WORKSPACE.txt
